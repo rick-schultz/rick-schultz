@@ -1,5 +1,8 @@
-## Hi There! I'm Rick Schultz! 
-<div align="center">
+## I'm Rick Schultz, a Web Developer/Software Engineer.
+##### Graduated in Business Administration with Marketing Emphasis (Bachelor) and studying Software Engineering (Postgraduate).
+##### I'm one of those persons who prefers to use Excel or Javascript instead of a calculator. I'm also a proud Multipotentialite, a person with many interests, many jobs over a lifetime, and many interlocking potentials! With my career T-shaped, I'm now focusing on deepening my knowledge and getting specialized in IT.
+ 
+<div align="left">
   <a href="http://rick-schultz.com" target="_blank">
   <img height="180em" src="https://github-readme-stats.vercel.app/api?username=rick-schultz&show_icons=true&theme=dark&include_all_commits=true&count_private=true"/>
   <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=rick-schultz&layout=compact&langs_count=7&theme=dark"/>
