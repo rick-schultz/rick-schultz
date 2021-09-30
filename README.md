@@ -1,6 +1,9 @@
 ## I'm Rick Schultz, a Web Developer/Software Engineer.
 ##### Graduated in Business Administration with Marketing Emphasis (Bachelor) and studying Software Engineering (Postgraduate).
 ##### I'm one of those persons who prefers to use Excel or Javascript instead of a calculator. I'm also a proud Multipotentialite, a person with many interests, many jobs over a lifetime, and many interlocking potentials! With my career T-shaped, I'm now focusing on deepening my knowledge and getting specialized in IT.
+
+##
+###
  
 <div align="left">
   <a href="http://rick-schultz.com" target="_blank">
