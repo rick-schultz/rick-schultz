@@ -24,4 +24,4 @@
  
   ![Snake animation](https://github.com/rick-schultz/rick-schultz/blob/output/github-contribution-grid-snake.svg)
  
-</div>
+</div> 
