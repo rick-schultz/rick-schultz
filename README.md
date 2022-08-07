@@ -1,4 +1,4 @@
-## I'm Rick Schultz, a Web Developer/Software Engineer.
+## I'm Rick Schultz, a Frontend Web Developer/Software Engineer.
 ##### Finishing Software Engineering (Postgraduate) and Graduated in Business Administration with Marketing Emphasis (Bachelor). 
 ##### I'm one of those persons who prefers to use Excel or Javascript instead of a calculator. I'm also a proud Multipotentialite, a person with many interests, many jobs over a lifetime, and many interlocking potentials! With my career T-shaped, I'm now focusing on deepening my knowledge and getting specialized in IT.
 
